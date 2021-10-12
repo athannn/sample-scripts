@@ -3,8 +3,9 @@ repo for random short scripts and stuff
 
 CC Bank Statement Reader (only valid for Singapore DBS Bank)
 ---------------------------
-q: i want to use but i don't know python or coding at all :(
-a: install anaconda3, make sure to click the 'set up environment PATH'. after everything done, open Anaconda Prompt and write;
+Q: i want to use but i don't know python or coding at all :(
+
+A: install anaconda3, make sure to click the 'set up environment PATH'. after everything done, open Anaconda Prompt and write;
 > pip install pdfplumber
 
 now continue with:
