@@ -9,6 +9,7 @@ a: install anaconda3, make sure to click the 'set up environment PATH'. after ev
 
 now continue with:
 > python "C:\Users\yourname\cc_statement_reader.py"
+
 the file path above depends on where your file is downloaded!
 and then you can follow the instructions
 your statement should be converted to .csv and stored in the same folder where your statement.pdf is
